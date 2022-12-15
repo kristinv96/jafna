@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+
+body {
+    background:
+    linear-gradient(to right,#46fc6a,#3f5efb);
+    max-width: 500px;
+    margin: auto;
+    text-align:center; 
+    vertical-align:middle;
+}
+h1 {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: white;
+    font-size: 400%;
+    text-shadow: 2px 2px #000000;
+}
+h3 {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: white;
+    font-size: 200%;
+    text-shadow: 2px 2px #000000;
+}
+.m1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Dongle', sans-serif;
+    font-size: 150%;
+}
+small {
+    font-size: 100%;
+    font-family: 'Dongle', sans-serif;
+    margin:0;
+}
+p {
+    font-family: 'Dongle', sans-serif;
+    font-size:200%;
+    margin:0;
+}
+input[type=number] {
+    font-family: 'Dongle', sa   ns-serif;
+    font-size:200%;
+    border-radius: 8px;
+    border: 1px solid #000000;
+    font-family: 'Dongle', sans-serif;
+    text-align: center;
+}
+
+input[name="guess"] {
+    font-family: 'Dongle', sa ns-serif;
+    font-size: 200%;
+    border-radius: 8px;
+    border: 1px solid #000000;
+    font-family: 'Dongle', sans-serif;
+    text-align: center;
+}
+
+a {
+    color:#000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Gotten from https://www.w3schools.com/css/css3_borders.asp */
+input[type=button] {
+    border-radius: 8px;
+    border: 1px solid #000000;
+    padding: 6px;
+    font-family: 'Dongle', sans-serif;
+    font-size:170%;
+    align-content: center;
+    /* background-color: #5054c4;  */
+}
+
+input[type=submit] {
+    border-radius: 8px;
+    border: 1px solid #000000;
+    padding: 6px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 170%;
+    align-content: center;
+    /* background-color: #5054c4;  */
+}
+
+.b {
+    font-family: 'Dongle', sans-serif;
+    font-size:200%;
+    margin:0;
+    width: 50px;
+    height: 50px;
+}
+.g {
+    font-family: 'Dongle', sans-serif;
+    font-size:200%;
+    margin:0;
+    width: 100px;
+    height: 20px;
+}
+.m2 {
+    font-family: 'Dongle', sans-serif;
+    font-size:200%;
+    margin:0;
+}
+.container3 {
+    display: flex;
+    flex-direction: column;
+}
+.container2 {
+    display: flex;
+    flex-direction: column;
+}
+.container1 {
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    margin:10px;
+}
+header {
+    margin:10px;
+}
+form.form1 {
+    height:30px;
+    margin-bottom:5px;
+        }
+        img {
+            margin:3px;
+        }
